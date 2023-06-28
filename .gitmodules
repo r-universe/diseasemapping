@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/diseasemapping/universe
-	shallow = true
 	branch = HEAD
 [submodule "mapmisc"]
 	path = mapmisc
 	url = https://gitlab.com/diseasemapping/mapmisc
-	shallow = true
-	registered = true
