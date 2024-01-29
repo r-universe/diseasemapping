@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/diseasemapping/universe
+	url = https://github.com/diseasemapping/diseasemapping.r-universe.dev
 	branch = HEAD
 [submodule "mapmisc"]
 	path = mapmisc
